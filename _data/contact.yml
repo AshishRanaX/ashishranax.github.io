@@ -2,17 +2,17 @@
 
 - type: github
   icon: "fab fa-github"
-  noblank: true
+  noblank: false
   url: 'https://github.com/ashishranax'
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
-  noblank: true
+  noblank: false
   url: 'https://x.com/ashishranax'
 
 - type: linkedin
   icon: "fa-brands fa-linkedin"
-  noblank: true # open link in current tab
+  noblank: false # open link in current tab
   url: 'https://linkedin.com/in/ashishranax'
 
 
