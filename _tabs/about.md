@@ -8,7 +8,6 @@ order: 4
 
 Welcome to my blog! I'm a malware researcher passionate about cybersecurity. Here, I'll share my personal insights and learnings in the field. Join me as we navigate the ever-evolving world of digital threats together.
 
-<footer class="footer">
   <div class="container">
     <ul class="social-buttons">
             <li>
@@ -28,4 +27,3 @@ Welcome to my blog! I'm a malware researcher passionate about cybersecurity. Her
             </li>
         </ul>
   </div>
-</footer>
