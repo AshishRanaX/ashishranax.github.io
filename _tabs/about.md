@@ -11,17 +11,17 @@ Welcome to my blog! I'm a malware researcher passionate about cybersecurity. Her
   <div class="container">
     <ul class="social-buttons">
             <li>
-                <a href="{{ site.social.twitter }}" target="_blank" class="twitter">
+                <a href="https://x.com/ashishranax" target="_blank" class="twitter">
                     <i class="fab fa-twitter"></i>
                 </a>
             </li>
             <li>
-                <a href="{{ site.social.github }}" target="_blank" class="github">
+                <a href="https://github.com/ashishranax" target="_blank" class="github">
                     <i class="fab fa-github"></i>
                 </a>
             </li>
             <li>
-                <a href="{{ site.social.linkedin }}" target="_blank" class="linkedin">
+                <a href="https://linkedin.com/in/ashishranax" target="_blank" class="linkedin">
                     <i class="fab fa-linkedin"></i>
                 </a>
             </li>
