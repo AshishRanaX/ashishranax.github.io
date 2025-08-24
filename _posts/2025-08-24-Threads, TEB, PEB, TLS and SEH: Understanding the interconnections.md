@@ -15,7 +15,7 @@ tags:
   - windows
 toc: true
 comments: false
-image: https://i.ibb.co/fVyBCDXt/TEB-struct.png
+image: https://i.ibb.co/m5NFtzcX/Thread-TEB-PEB-TLS-SEH-struct.jpg
 --- 
 
 
