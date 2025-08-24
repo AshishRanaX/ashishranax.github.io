@@ -1,5 +1,5 @@
 ---
-title: Threads, TEB, PEB, TLS and SEH: Understanding the interconnections
+title: "Threads, TEB, PEB, TLS and SEH: Understanding the interconnections"
 date: 2025-08-24 23:00:00 IST
 categories:
   - REVERSE_ENGINEERING
@@ -18,7 +18,10 @@ comments: false
 image: https://i.ibb.co/fVyBCDXt/TEB-struct.png
 --- 
 
+
 ## Threads, TEB, PEB, TLS and SEH: Understanding the interconnections
+
+
 ### What is a thread?
 
 When you write and execute a simple "hello world" program, a process is created by the OS by allocating a virtual address space. The executable is then loaded into this allocated memory, and finally, a main thread is created. This main thread executes your program's logic to print "Hello World" on your screen.
