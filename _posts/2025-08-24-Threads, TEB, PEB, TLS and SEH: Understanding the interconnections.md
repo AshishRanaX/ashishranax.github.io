@@ -19,8 +19,6 @@ image: https://i.ibb.co/m5NFtzcX/Thread-TEB-PEB-TLS-SEH-struct.jpg
 --- 
 
 
-## Threads, TEB, PEB, TLS and SEH: Understanding the interconnections
-
 
 ### What is a thread?
 
